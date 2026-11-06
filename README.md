@@ -51,3 +51,5 @@ GitHub: https://github.com/Indhumathi-codes
 ---
 
 Thank you for visiting my repository!
+
+This repository is part of my Python programming learning journey.
